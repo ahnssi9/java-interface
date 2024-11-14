@@ -13,10 +13,10 @@ public abstract class Phone {
 	}
 
 	public void turnOn() {
-		System.out.println(" 전원 ");
+		System.out.println(" Github --->  전원 ");
 	}
 	public void turnOff() {
-		System.out.println(" 끝!! ");
+		System.out.println(" Github --->   끝!! ");
 	}
 	
 }
